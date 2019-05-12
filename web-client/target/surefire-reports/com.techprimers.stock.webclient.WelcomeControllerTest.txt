@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.techprimers.stock.webclient.WelcomeControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.534 s <<< FAILURE! - in com.techprimers.stock.webclient.WelcomeControllerTest
+main(com.techprimers.stock.webclient.WelcomeControllerTest)  Time elapsed: 0.337 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.techprimers.stock.webclient.WelcomeControllerTest.main(WelcomeControllerTest.java:35)
+
+hello(com.techprimers.stock.webclient.WelcomeControllerTest)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.techprimers.stock.webclient.WelcomeControllerTest.hello(WelcomeControllerTest.java:50)
+

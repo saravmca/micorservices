@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: web-client
+server:
+  port: 8303
+  context: /web-client
