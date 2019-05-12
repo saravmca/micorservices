@@ -1,0 +1,5 @@
+com\techprimers\stock\dbservice\repository\QuotesRepository.class
+com\techprimers\stock\dbservice\resource\DBServiceResource.class
+com\techprimers\stock\dbservice\DbServiceApplication.class
+com\techprimers\stock\dbservice\model\Quotes.class
+com\techprimers\stock\dbservice\model\Quote.class
