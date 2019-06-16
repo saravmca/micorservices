@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.techprimers.security.springsecurityclient.SpringSecurityClientApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.084 sec - in com.techprimers.security.springsecurityclient.SpringSecurityClientApplicationTests

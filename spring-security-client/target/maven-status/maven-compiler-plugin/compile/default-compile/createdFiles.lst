@@ -1,0 +1,3 @@
+com\techprimers\security\springsecurityclient\SpringSecurityClientApplication.class
+com\techprimers\security\springsecurityclient\config\WebConfig.class
+com\techprimers\security\springsecurityclient\config\OauthConfig.class
