@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.techprimers.security.springsecurityauthserver.SpringSecurityAuthServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.775 sec - in com.techprimers.security.springsecurityauthserver.SpringSecurityAuthServerApplicationTests

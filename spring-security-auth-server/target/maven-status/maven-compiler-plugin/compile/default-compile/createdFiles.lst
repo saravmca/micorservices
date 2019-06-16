@@ -1,0 +1,4 @@
+com\techprimers\security\springsecurityauthserver\HelloResource.class
+com\techprimers\security\springsecurityauthserver\config\AuthorizationServerConfig.class
+com\techprimers\security\springsecurityauthserver\config\ResourceServerConfig.class
+com\techprimers\security\springsecurityauthserver\SpringSecurityAuthServerApplication.class
